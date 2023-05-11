@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#C0D4C8",
+        "borderColor": "#2E3156",
+        "borderRadius": 8,
+        "borderStyle": "dashed",
+        "borderWidth": 1,
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "column",
+        "margin": 10,
+      }
+    }
+  >
+    <Image
+      source={
+        {
+          "uri": "https://img.pokemondb.net/sprites/home/normal/1x/bulbasaur.png",
+        }
+      }
+      style={
+        {
+          "height": 150,
+          "width": 150,
+        }
+      }
+    />
+    <Text
+      style={
+        {
+          "color": "#2E3156",
+          "fontSize": 20,
+          "fontWeight": "600",
+          "marginTop": 10,
+          "textAlign": "center",
+        }
+      }
+    >
+      bulbasaur
+    </Text>
+    <Text
+      style={
+        {
+          "color": "#2E3156",
+          "fontSize": 20,
+          "fontWeight": "400",
+          "marginBottom": 20,
+          "textAlign": "center",
+        }
+      }
+    >
+      001
+    </Text>
+  </View>
+</View>
+`;

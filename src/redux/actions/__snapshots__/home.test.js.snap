@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`detail actions should get PokemonEgggroup 1`] = `
+ApiRequestService {
+  "axiosService": [MockFunction],
+  "baseURL": "https://pokeapi.co/api/v2",
+  "constructor": [MockFunction],
+  "getApi": [MockFunction],
+}
+`;
+
+exports[`detail actions should get PokemonSpecies 1`] = `
+ApiRequestService {
+  "axiosService": [MockFunction],
+  "baseURL": "https://pokeapi.co/api/v2",
+  "constructor": [MockFunction],
+  "getApi": [MockFunction],
+}
+`;
+
+exports[`home actions should get PokemonDetail 1`] = `
+ApiRequestService {
+  "axiosService": [MockFunction],
+  "baseURL": "https://pokeapi.co/api/v2",
+  "constructor": [MockFunction],
+  "getApi": [MockFunction],
+}
+`;
+
+exports[`home actions should get PokemonGender 1`] = `
+ApiRequestService {
+  "axiosService": [MockFunction],
+  "baseURL": "https://pokeapi.co/api/v2",
+  "constructor": [MockFunction],
+  "getApi": [MockFunction],
+}
+`;
+
+exports[`home actions should get PokemonState 1`] = `
+ApiRequestService {
+  "axiosService": [MockFunction],
+  "baseURL": "https://pokeapi.co/api/v2",
+  "constructor": [MockFunction],
+  "getApi": [MockFunction],
+}
+`;
+
+exports[`home actions should get PokemonType 1`] = `
+ApiRequestService {
+  "axiosService": [MockFunction],
+  "baseURL": "https://pokeapi.co/api/v2",
+  "constructor": [MockFunction],
+  "getApi": [MockFunction],
+}
+`;
+
+exports[`home actions should get Pokemons 1`] = `
+ApiRequestService {
+  "axiosService": [MockFunction],
+  "baseURL": "https://pokeapi.co/api/v2",
+  "constructor": [MockFunction],
+  "getApi": [MockFunction],
+}
+`;

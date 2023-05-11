@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loader actions should create LOADER_START action 1`] = `[Function]`;
+
+exports[`loader actions should create loaderEnd action 1`] = `[Function]`;

@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    {
+      "padding": 20,
+      "textAlign": "center",
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "color": "#2E3156",
+        "fontSize": 30,
+        "fontWeight": "700",
+      }
+    }
+  >
+    Pokédex
+  </Text>
+  <View
+    style={
+      {
+        "borderColor": "#5D5F7E",
+        "borderWidth": 1,
+        "marginBottom": 10,
+        "marginTop": 10,
+      }
+    }
+  />
+  <Text
+    style={
+      {
+        "color": "#2E3156",
+        "fontSize": 16,
+        "fontWeight": "500",
+      }
+    }
+  >
+    Search for any Pokémon that exists on the planet
+  </Text>
+</View>
+`;

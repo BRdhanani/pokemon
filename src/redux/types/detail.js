@@ -1,0 +1,7 @@
+const DetailActionTypes = {
+  GET_POKEMON_SPECIES: 'GET_POKEMON_SPECIES',
+  GET_POKEMON_GENDER: 'GET_POKEMON_GENDER',
+  GET_POKEMON_EGGGROUP: 'GET_POKEMON_EGGGROUP',
+};
+
+export default DetailActionTypes;
